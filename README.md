@@ -73,6 +73,10 @@ run -all
 - **RTL Viewer confirms logical correctness.**
 - **Simulation results validate hazard detection.**
 
+![image](https://github.com/user-attachments/assets/77c0858c-2696-4d3c-a287-8c4e5bd08252)
+
+
+
 ## Author
 **Puya Pakshad**  
 - Contact: [ppakshad@hawk.iit.edu]
