@@ -58,7 +58,7 @@ assign StallF = StallD = FlushE = LwStall;
 ### **Steps to Simulate**
 ```sh
 # Clone the repository
-git clone https://github.com/your-repo/hazard-unit.git
+git clone https://github.com/ppakshad/HazardUnit-.git
 cd hazard-unit
 
 # Compile in ModelSim
